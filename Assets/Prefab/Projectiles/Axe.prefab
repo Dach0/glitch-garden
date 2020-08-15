@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectileSpeed: 2
-  damage: 50
+  damage: 200
 --- !u!95 &1536072091981736200
 Animator:
   serializedVersion: 3
